@@ -1,8 +1,7 @@
-# pyqr-pdf
-
+# py-qr-pdf
+A python tool to batch-generate QR codes as seperate images and a PDF, for easy printing.
 Thank you to https://github.com/shivamsoods/raymond-python for which I based this off of.
 I was tasked with batch creating qr codes with extra textual information, so improved upon [@shivamsoods](https://github.com/shivamsoods) fpdf implementation to do the task for me, rather than create them manually in MS Word.
-
 
 ## Getting Started
 1. Create a virtual environment with `python3 -m venv env`
